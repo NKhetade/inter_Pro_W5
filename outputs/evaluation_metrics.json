@@ -1,0 +1,10 @@
+{
+  "test_loss": 0.025260021910071373,
+  "test_accuracy": 0.9909,
+  "macro_precision": 0.9908392664806056,
+  "macro_recall": 0.990833204069566,
+  "macro_f1": 0.9908243457907975,
+  "epochs_completed": 8,
+  "batch_size": 128,
+  "random_seed": 42
+}

@@ -1,0 +1,2 @@
+test_loss,test_accuracy,macro_precision,macro_recall,macro_f1,epochs_completed,batch_size,random_seed
+0.025260021910071373,0.9909,0.9908392664806056,0.990833204069566,0.9908243457907975,8,128,42
